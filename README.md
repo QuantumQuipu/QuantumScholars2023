@@ -54,5 +54,21 @@ LinkedIn: https://www.linkedin.com/company/quantumquipu
 
 YouTube: https://www.youtube.com/@quantumquipu-unmsm1091/streams
 
+
+# Donaciones
+<br>
+<center>
+Puedes donar una vez en el siguiente enlace (Ko-Fi):
+
+<br>
+    
+*Click en la imagen.*
+
+<a href="https://ko-fi.com/rcrdphysics">
+<img src="https://habrastorage.org/webt/8r/ml/xf/8rmlxfpdzukegpxa62cxlfvgkqe.png" width=20% />
+
+</center>
+
 Atentamente,
+
 El equipo de QuantumQuipu
