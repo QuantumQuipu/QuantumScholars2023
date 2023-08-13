@@ -46,11 +46,13 @@ Puede conocer sobre el equipo completo de QuantumQuipu en: https://lnkd.in/eNvtB
 Estamos seguros que el desarrollo de la Computación Cuántica en la región está en sus manos y no dudaremos en seguir impulsando su crecimiento.
 🚀 Invitamos a que más empresas, instituciones y centros de investigación nos escriban para diseñar la forma de converger esfuerzos en este camino que venimos emprendiendo desde el año pasado.
 
-Nuestras redes:
+# Nuestras redes:
+
 Facebook: https://www.facebook.com/QuantumQuipuUNMSM
+
 LinkedIn: https://www.linkedin.com/company/quantumquipu
 
-
+YouTube: https://www.youtube.com/@quantumquipu-unmsm1091/streams
 
 Atentamente,
 El equipo de QuantumQuipu
